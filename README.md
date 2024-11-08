@@ -12,9 +12,7 @@ Script that synchronizes two folders: source and replica. The script maintain a 
 
 # How to use
 
-Download or Create the Script:
-If you haven't already, copy the PowerShell script into a .ps1 file (e.g., SyncFolders.ps1).
-Make sure the script is saved in a directory you can easily access.
+If you haven't already, copy the PowerShell script into a .ps1 file (e.g., SyncFolders.ps1). Make sure the script is saved in a directory you can easily access.
 
 Prepare the Directories:
 
@@ -30,7 +28,7 @@ Ensure you have the following folders:
 
 Use the following syntax to run the script:
 
- -.\SyncFolders.ps1 -sourcePath "C:\Path\To\Source" -replicaPath "C:\Path\To\Replica" -syncInterval 600 -logFilePath "C:\Path\To\LogFile.txt"
+ - .\SyncFolders.ps1 -sourcePath "C:\Path\To\Source" -replicaPath "C:\Path\To\Replica" -syncInterval 600 -logFilePath "C:\Path\To\LogFile.txt"
 
 Replace the following placeholders with actual values:
 
