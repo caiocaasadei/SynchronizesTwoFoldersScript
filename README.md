@@ -12,8 +12,6 @@ Script that synchronizes two folders: source and replica. The script maintain a 
 
 # How to use
 
-If you haven't already, copy the PowerShell script into a .ps1 file (e.g., SyncFolders.ps1). Make sure the script is saved in a directory you can easily access.
-
 Prepare the Directories:
 
 Ensure you have the following folders:
