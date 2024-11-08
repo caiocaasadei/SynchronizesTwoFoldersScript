@@ -1,5 +1,5 @@
 # SynchronizesTwoFoldersScript
-Script that synchronizes two folders: source and replica. The script should maintain a full, identical copy of source folder  at replica folder.
+Script that synchronizes two folders: source and replica. The script maintain a full, identical copy of source folder  at replica folder.
 
 1. Synchronization must be one-way: after the synchronization content of the replica folder should be modified to exactly match content of the source folder;
 
